@@ -1,0 +1,1 @@
+mvn scala:run -DmainClass=oktunc.scala.lotto.Sample
