@@ -3,12 +3,14 @@
 
 # sbt specific
 dist/*
-target/*
+target
 lib_managed/
 src_managed/
 project/boot/
 project/plugins/project/
-.idea/*
+.idea
+.settings
+.cache
 
 # Scala-IDE specific
 .scala_dependencies
