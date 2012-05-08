@@ -1,7 +1,5 @@
 package oktunc.scala.lotto
 
-import oktunc.scala.lotto.App
-
 object Sample extends App {
 
   override def main(args: Array[String]) {
